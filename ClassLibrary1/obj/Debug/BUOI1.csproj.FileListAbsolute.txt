@@ -1,0 +1,7 @@
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\bin\Debug\BUOI1.exe.config
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\bin\Debug\BUOI1.exe
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\bin\Debug\BUOI1.pdb
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\obj\Debug\BUOI1.csproj.AssemblyReference.cache
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\obj\Debug\BUOI1.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\obj\Debug\BUOI1.exe
+C:\Users\Laptop Dell\source\repos\BUOI1\BUOI1\obj\Debug\BUOI1.pdb
